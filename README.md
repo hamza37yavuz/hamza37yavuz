@@ -6,7 +6,8 @@ Moreover, I have a keen interest in machine learning and artificial intelligence
 You can visit my TryHackMe profile at: https://tryhackme.com/p/hmzyvz
 
 
-![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamza37yavuz&show_icons=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza37yavuz&show_icons=true&locale=en&layout=compact" alt="hamza37yavuz" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza37yavuz&show_icons=true&locale=en" alt="hamza37yavuz" /></p>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hamza37yavuz)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza37yavuz&" alt="hamza37yavuz" /></p>
