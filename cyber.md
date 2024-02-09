@@ -1,4 +1,4 @@
-# CTF YOL HARİTALARI
+# CTF YOL HARİTALARI ve NOTLAR
 
 [ATTACKTIVE DIRECTORY](https://github.com/hamza37yavuz/Attacktive-Directory-YolHaritasi-CTF)
 
