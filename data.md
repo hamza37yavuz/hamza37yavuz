@@ -11,3 +11,5 @@
 [MIUUL BOOTCAMP](https://github.com/hamza37yavuz/2023-Miuul-Bootcamp-Feature-Engineering)
 
 [GLOBAL-AIHUB BOOTCAMP](https://github.com/hamza37yavuz/MedicalCostAnalysis)
+
+[MACHINE LEARNING NOTLARI VE UYGULAMALARI](https://github.com/hamza37yavuz/Python-MachineLearning)
