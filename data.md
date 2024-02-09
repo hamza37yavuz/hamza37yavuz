@@ -1,4 +1,4 @@
-# VERİ BİLİMİ
+# VERİ BİLİMİ MAKİNE ÖĞRENMESİ YAPAY ZEKA
 
 [BTK AKADEMİ DATATHON](https://github.com/hamza37yavuz/Datathon2023CyberBros)
 
