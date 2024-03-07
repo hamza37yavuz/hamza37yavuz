@@ -13,3 +13,6 @@
 [GLOBAL-AIHUB BOOTCAMP](https://github.com/hamza37yavuz/MedicalCostAnalysis)
 
 [MACHINE LEARNING NOTLARI VE UYGULAMALARI](https://github.com/hamza37yavuz/Python-MachineLearning)
+
+[MİLLİ TEKNOLOJİ AKADEMİSİ MODUL PROJESİ](https://github.com/hamza37yavuz/YzupFirstModule)
+
