@@ -14,6 +14,10 @@
 
 [MACHINE LEARNING NOTLARI VE UYGULAMALARI](https://github.com/hamza37yavuz/Python-MachineLearning)
 
-[MİLLİ TEKNOLOJİ AKADEMİSİ MODUL PROJESİ](https://github.com/hamza37yavuz/YzupFirstModule)
+[MİLLİ TEKNOLOJİ AKADEMİSİ PYTHON MODUL PROJESİ](https://github.com/hamza37yavuz/YzupFirstModule)
+
+[MİLLİ TEKNOLOJİ AKADEMİSİ VERİ YÖNETİMİ MODUL PROJESİ](https://github.com/hamza37yavuz/MysqlProjectMTAK)
 
 [PYSPARK](https://www.kaggle.com/code/muhammethamzayavuz/pyspark-clsfctn)
+
+
