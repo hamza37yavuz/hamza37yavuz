@@ -18,7 +18,9 @@
 
 [MİLLİ TEKNOLOJİ AKADEMİSİ VERİ YÖNETİMİ MODUL PROJESİ](https://github.com/hamza37yavuz/MysqlProjectMTAK)
 
-[GÖRÜNTÜ İŞELME ÇALIŞMALARI](https://github.com/hamza37yavuz/BIL370_Cpp)
+[MİLLİ TEKNOLOJİ AKADEMİSİ SPARK SQL](https://www.kaggle.com/code/muhammethamzayavuz/yzuphuaweimodulprojesi)
+
+[GÖRÜNTÜ İŞLEME ÇALIŞMALARI](https://github.com/hamza37yavuz/BIL370_Cpp)
 
 [PYSPARK](https://www.kaggle.com/code/muhammethamzayavuz/pyspark-clsfctn)
 
