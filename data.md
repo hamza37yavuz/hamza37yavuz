@@ -24,4 +24,4 @@
 
 [PYSPARK](https://www.kaggle.com/code/muhammethamzayavuz/pyspark-clsfctn)
 
-
+[DERİN ÖĞRENME MODELLERİNİN KARŞILAŞTIRILMASI](https://www.kaggle.com/code/muhammethamzayavuz/deeplearningmodels)
