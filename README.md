@@ -1,4 +1,5 @@
-##  Muhammet Hamza Yavuz  &nbsp; &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/hamza-yavuz-012985220/)
+##  Muhammet Hamza Yavuz  
+[My Linkedin Profile](https://www.linkedin.com/in/hamza-yavuz-012985220/)
 
 Hello! I'm Muhammet Hamza Yavuz, a sophomore student studying Computer Engineering at Istanbul Medeniyet University.
 I am passionate about the field of cybersecurity and actively enhance my skills by solving Capture The Flag (CTF) challenges. Additionally, I strive to share my experiences and knowledge about CTFs by writing walktrough on the subject.
