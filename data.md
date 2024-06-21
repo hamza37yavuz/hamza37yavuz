@@ -25,3 +25,5 @@
 [PYSPARK](https://www.kaggle.com/code/muhammethamzayavuz/pyspark-clsfctn)
 
 [DERİN ÖĞRENME MODELLERİNİN KARŞILAŞTIRILMASI](https://github.com/hamza37yavuz/DeepLearningModels)
+
+[MİLLİ TEKNOLOJİ AKADEMİSİ BİTİRME PROJESİ](https://www.kaggle.com/code/muhammethamzayavuz/huaweietl)
