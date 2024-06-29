@@ -9,9 +9,9 @@ Moreover, I have a keen interest in machine learning and artificial intelligence
 
 - 📝 I regularly write articles on https://medium.com/@hamzayavuz37
 
-- You can visit my data project: https://github.com/hamza37yavuz/hamza37yavuz/blob/master/data.md
+- You can visit my data projects: https://github.com/hamza37yavuz/hamza37yavuz/blob/master/data.md
 
-- You can visit my cyber security project: https://github.com/hamza37yavuz/hamza37yavuz/blob/master/cyber.md
+- You can visit my cyber security projects: https://github.com/hamza37yavuz/hamza37yavuz/blob/master/cyber.md
 
 
 <br>
