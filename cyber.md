@@ -11,3 +11,5 @@
 [AĞ VE SİBER GÜVENLİK NOTLARIM](https://github.com/hamza37yavuz/SiberNotlar)
 
 [EDR NEDİR NASIL ÇALIŞIR BLOG](https://medium.com/@hamzayavuz37/edr-nedi%CC%87r-ve-nasil-%C3%A7ali%C5%9Fir-08ab45bc88e9)
+
+[LİNUX SİSTEMLER İÇİN SİSTEM ÇAĞRISI KULLANILARAK HAZIRLANAN TASKLARI LİSTELEYEN MODUL](https://github.com/hamza37yavuz/Linux-Kernel-Module-for-Task-Information)
