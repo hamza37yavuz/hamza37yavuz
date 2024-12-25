@@ -27,3 +27,5 @@
 [DERİN ÖĞRENME MODELLERİNİN KARŞILAŞTIRILMASI](https://github.com/hamza37yavuz/DeepLearningModels)
 
 [MİLLİ TEKNOLOJİ AKADEMİSİ BİTİRME PROJESİ](https://www.kaggle.com/code/muhammethamzayavuz/huaweietl)
+
+[İTÜ DATATHON AI ÇÖZÜM](https://github.com/hamza37yavuz/DatathonAi)
