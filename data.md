@@ -1,8 +1,8 @@
 # VERİ BİLİMİ MAKİNE ÖĞRENMESİ YAPAY ZEKA
 
-[BTK AKADEMİ DATATHON](https://github.com/hamza37yavuz/Datathon2023CyberBros)
+[BTK AKADEMİ DATATHON 2023](https://github.com/hamza37yavuz/Datathon2023CyberBros)
 
-[İKLİM VE MOBİLİTE DATATHONU](https://github.com/hamza37yavuz/Ibb_Iklim_ve_Mobilite_Datathonu_CyberBros)
+[İKLİM VE MOBİLİTE DATATHONU -İBB-](https://github.com/hamza37yavuz/Ibb_Iklim_ve_Mobilite_Datathonu_CyberBros)
 
 [İŞ BANKASI DATATHON](https://github.com/hamza37yavuz/isbankasi_cyberbros)
 
@@ -29,3 +29,5 @@
 [MİLLİ TEKNOLOJİ AKADEMİSİ BİTİRME PROJESİ](https://www.kaggle.com/code/muhammethamzayavuz/huaweietl)
 
 [İTÜ DATATHON AI ÇÖZÜM](https://github.com/hamza37yavuz/DatathonAi)
+
+[BTK AKADEMİ DATATHON 2024](https://www.kaggle.com/code/muhammethamzayavuz/fintek)
