@@ -31,3 +31,5 @@
 [İTÜ DATATHON AI ÇÖZÜM](https://github.com/hamza37yavuz/DatathonAi)
 
 [BTK AKADEMİ DATATHON 2024](https://www.kaggle.com/code/muhammethamzayavuz/fintek)
+
+[TIME SERIES STATSTICAL ANALAYSIS](https://www.kaggle.com/code/muhammethamzayavuz/zaman-serileri)
