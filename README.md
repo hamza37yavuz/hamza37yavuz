@@ -7,6 +7,8 @@ Moreover, I have a keen interest in machine learning and artificial intelligence
 
 - You can visit my TryHackMe profile at: https://tryhackme.com/p/hmzyvz
 
+- You can visit my leetcode profile at: https://leetcode.com/u/37yavuzhamza/
+
 - 📝 I regularly write articles on https://medium.com/@hamzayavuz37
 
 - You can visit my data projects: https://github.com/hamza37yavuz/hamza37yavuz/blob/master/data.md
