@@ -1,35 +1,19 @@
-# VERİ BİLİMİ MAKİNE ÖĞRENMESİ YAPAY ZEKA
+## DATA SCIENCE · MACHINE LEARNING · ARTIFICIAL INTELLIGENCE
 
-[BTK AKADEMİ DATATHON 2023](https://github.com/hamza37yavuz/Datathon2023CyberBros)
-
-[İKLİM VE MOBİLİTE DATATHONU -İBB-](https://github.com/hamza37yavuz/Ibb_Iklim_ve_Mobilite_Datathonu_CyberBros)
-
-[İŞ BANKASI DATATHON](https://github.com/hamza37yavuz/isbankasi_cyberbros)
-
-[KAGGLE SPACESHIP-TITANIC](https://github.com/hamza37yavuz/spaceship-titanic_cyberbros)
-
-[MIUUL BOOTCAMP](https://github.com/hamza37yavuz/2023-Miuul-Bootcamp-Feature-Engineering)
-
-[GLOBAL-AIHUB BOOTCAMP](https://github.com/hamza37yavuz/MedicalCostAnalysis)
-
-[MACHINE LEARNING NOTLARI VE UYGULAMALARI](https://github.com/hamza37yavuz/Python-MachineLearning)
-
-[MİLLİ TEKNOLOJİ AKADEMİSİ PYTHON MODUL PROJESİ](https://github.com/hamza37yavuz/YzupFirstModule)
-
-[MİLLİ TEKNOLOJİ AKADEMİSİ VERİ YÖNETİMİ MODUL PROJESİ](https://github.com/hamza37yavuz/MysqlProjectMTAK)
-
-[MİLLİ TEKNOLOJİ AKADEMİSİ SPARK SQL](https://www.kaggle.com/code/muhammethamzayavuz/yzuphuaweimodulprojesi)
-
-[GÖRÜNTÜ İŞLEME ÇALIŞMALARI](https://github.com/hamza37yavuz/BIL370_Cpp)
-
-[PYSPARK](https://www.kaggle.com/code/muhammethamzayavuz/pyspark-clsfctn)
-
-[DERİN ÖĞRENME MODELLERİNİN KARŞILAŞTIRILMASI](https://github.com/hamza37yavuz/DeepLearningModels)
-
-[MİLLİ TEKNOLOJİ AKADEMİSİ BİTİRME PROJESİ](https://www.kaggle.com/code/muhammethamzayavuz/huaweietl)
-
-[İTÜ DATATHON AI ÇÖZÜM](https://github.com/hamza37yavuz/DatathonAi)
-
-[BTK AKADEMİ DATATHON 2024](https://www.kaggle.com/code/muhammethamzayavuz/fintek)
-
-[TIME SERIES STATSTICAL ANALAYSIS](https://www.kaggle.com/code/muhammethamzayavuz/zaman-serileri)
+* [BTK Academy Datathon 2023](https://github.com/hamza37yavuz/Datathon2023CyberBros)
+* [Climate & Mobility Datathon (İBB)](https://github.com/hamza37yavuz/Ibb_Iklim_ve_Mobilite_Datathonu_CyberBros)
+* [İşbank Datathon](https://github.com/hamza37yavuz/isbankasi_cyberbros)
+* [Kaggle – Spaceship Titanic](https://github.com/hamza37yavuz/spaceship-titanic_cyberbros)
+* [MIUUL Bootcamp](https://github.com/hamza37yavuz/2023-Miuul-Bootcamp-Feature-Engineering)
+* [Global AI Hub Bootcamp](https://github.com/hamza37yavuz/MedicalCostAnalysis)
+* [Machine Learning Notes & Projects](https://github.com/hamza37yavuz/Python-MachineLearning)
+* [National Technology Academy – Python Module Project](https://github.com/hamza37yavuz/YzupFirstModule)
+* [National Technology Academy – Data Management Module Project](https://github.com/hamza37yavuz/MysqlProjectMTAK)
+* [National Technology Academy – Spark SQL](https://www.kaggle.com/code/muhammethamzayavuz/yzuphuaweimodulprojesi)
+* [Computer Vision Studies](https://github.com/hamza37yavuz/BIL370_Cpp)
+* [PySpark](https://www.kaggle.com/code/muhammethamzayavuz/pyspark-clsfctn)
+* [Comparison of Deep Learning Models](https://github.com/hamza37yavuz/DeepLearningModels)
+* [National Technology Academy – Capstone Project](https://www.kaggle.com/code/muhammethamzayavuz/huaweietl)
+* [İTÜ Datathon – AI Solution](https://github.com/hamza37yavuz/DatathonAi)
+* [BTK Academy Datathon 2024](https://www.kaggle.com/code/muhammethamzayavuz/fintek)
+* [Time Series Statistical Analysis](https://www.kaggle.com/code/muhammethamzayavuz/zaman-serileri)
