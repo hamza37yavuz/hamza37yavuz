@@ -20,10 +20,10 @@ Moreover, I have a keen interest in machine learning and artificial intelligence
 
 ### 🛠 Tech Stack
 
-**Languages:** Python, Golang, SQL, Bash, C  
+**Languages:** Python, C++, Bash, C  
 **AI/ML:** TensorFlow, Scikit-learn, OpenCV, Deep Learning, Computer Vision  
 **DevOps & Cloud:** Docker, Rancher, GitLab CI/CD, GCP, GitOps  
-**Embedded:** NVIDIA Jetson (Orin NX, Xavier), Kernel Driver Development, Device Tree  
+**Embedded:** NVIDIA Jetson, Kernel Driver Development, Device Tree  
 **Security:** Kali Linux, Nmap, Metasploit, Burp Suite, Hashcat, Active Directory Attacks  
 
 ---
